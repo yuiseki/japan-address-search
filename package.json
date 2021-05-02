@@ -34,7 +34,7 @@
   "dependencies": {
     "command-line-args": "^5.1.1",
     "command-line-usage": "^6.1.0",
-    "level-geospatial": "0.0.5",
+    "level-geospatial": "0.0.6",
     "leveldown": "^5.6.0",
     "levelup": "^4.4.0"
   },
